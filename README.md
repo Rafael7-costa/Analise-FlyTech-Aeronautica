@@ -45,29 +45,29 @@ A liderança acredita que entender as causas por trás desses dois fenômenos e 
 
 #### INSIGTHS DA ANALISE
 
-Após uma análise diagnóstica foi identificado uma forte correlação (próxima de 1)  entre desconto, clientes únicos e unidades vendidas, mostrando uma fragilidade da empresa pois, depende fortemente de novos clientes entrando todos os meses para aumentar o faturamento, e que só é possível vender para os mesmo clientes se der desconto.
+### Após uma análise diagnóstica foi identificado uma forte correlação (próxima de 1)  entre desconto, clientes únicos e unidades vendidas, mostrando uma fragilidade da empresa pois, depende fortemente de novos clientes entrando todos os meses para aumentar o faturamento, e que só é possível vender para os mesmo clientes se der desconto.
 
-Com o marketing próximo de zero ou negativo, indica uma estagnação que pode ser pelo baixo investimento ou campanhas que não estão sendo direcionada de forma assertiva para atrair clientes.
+### Com o marketing próximo de zero ou negativo, indica uma estagnação que pode ser pelo baixo investimento ou campanhas que não estão sendo direcionada de forma assertiva para atrair clientes.
 
-O mesmo vale para a avaliação média da empresa, pois é um indicador relevante que mostra a fragilidade em manter os clientes.
+### O mesmo vale para a avaliação média da empresa, pois é um indicador relevante que mostra a fragilidade em manter os clientes.
  ![Insight 1](img/1.png)
 
-Com queda no investimento em marketing os seguintes indicadores, Faturamento, Clientes únicos e taxa de Conversão tendem a ter um decréscimo 
+### Com queda no investimento em marketing os seguintes indicadores, Faturamento, Clientes únicos e taxa de Conversão tendem a ter um decréscimo 
 ![Insight 2](img/2.png)
 
-O modelo FT-50 Executive em comparação ao ano passado teve um crescimento de 8% em quantidade vendida, entretanto o modelo FT-100 Commercial teve queda -22,64% e um aumento no seu preço de 4,52%.
+### O modelo FT-50 Executive em comparação ao ano passado teve um crescimento de 8% em quantidade vendida, entretanto o modelo FT-100 Commercial teve queda -22,64% e um aumento no seu preço de 4,52%.
 ![Insight 3](img/3.png)
 
-O maior motivo da queda de quantidades vendidas do FT-100 Commercial foi os setores saúde e transporte que diminuíram quase pela metade a quantidade comprada em relação ao ano passado
+### O maior motivo da queda de quantidades vendidas do FT-100 Commercial foi os setores saúde e transporte que diminuíram quase pela metade a quantidade comprada em relação ao ano passado
 ![Insight 4](img/4.png)
 
-A empresa teve uma queda na avaliação media em relação ao ano passado, onde é possível ver também uma aumento nas avaliações "muito ruim" e "ruim"
+### A empresa teve uma queda na avaliação media em relação ao ano passado, onde é possível ver também uma aumento nas avaliações "muito ruim" e "ruim"
 ![Insight 5](img/5.png)
 
-A maioria dos clientes que entraram em churn e que avaliaram com uma nota baixa, e tem em comum o tempo de relacionamento de 5 meses 
+### A maioria dos clientes que entraram em churn e que avaliaram com uma nota baixa, e tem em comum o tempo de relacionamento de 5 meses 
 ![Insight 6](img/6.png)
 
-A quantidade de churn veio a maior parte de empresas de pequeno porte dos setores Financeiro, Transporte e Saúde nos Países, Brasil, Colômbia e Peru  
+### A quantidade de churn veio a maior parte de empresas de pequeno porte dos setores Financeiro, Transporte e Saúde nos Países, Brasil, Colômbia e Peru  
 ![Insight 7](img/7.png)
 
 # RESULTADO/ RECOMENDAÇÃO
