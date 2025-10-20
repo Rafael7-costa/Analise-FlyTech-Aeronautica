@@ -33,7 +33,7 @@ A liderança acredita que entender as causas por trás desses dois fenômenos e 
  - caiu porque o preço aumentou
  - caiu porque a % de desconto diminuiu
  - as empresas optaram por outro modelos
- - ouve um baixo investimento de marketing
+ - houve um baixo investimento de marketing
 
 ### 2. Aumento de Churn:
  - clientes com menos tempo de fidelização tem mais chances de entrar em churn
@@ -50,26 +50,25 @@ Após uma análise diagnóstica foi identificado uma forte correlação (próxim
 Com o marketing próximo de zero ou negativo, indica uma estagnação que pode ser pelo baixo investimento ou campanhas que não estão sendo direcionada de forma assertiva para atrair clientes.
 
 O mesmo vale para a avaliação média da empresa, pois é um indicador relevante que mostra a fragilidade em manter os clientes.
-**Prints**
+ ![Insight 1](img/1.png)
 
 Com queda no investimento em marketing os seguintes indicadores, Faturamento, Clientes únicos e taxa de Conversão tendem a ter um decréscimo 
-**Prints**
+![Insight 2](img/2.png)
 
 O modelo FT-50 Executive em comparação ao ano passado teve um crescimento de 8% em quantidade vendida, entretanto o modelo FT-100 Commercial teve queda -22,64% e um aumento no seu preço de 4,52%.
-**Prints**
+![Insight 3](img/3.png)
 
 O maior motivo da queda de quantidades vendidas do FT-100 Commercial foi os setores saúde e transporte que diminuíram quase pela metade a quantidade comprada em relação ao ano passado
-**Prints**
+![Insight 4](img/4.png)
 
 A empresa teve uma queda na avaliação media em relação ao ano passado, onde é possível ver também uma aumento nas avaliações "muito ruim" e "ruim"
-**Prints**
-**Prints**
+![Insight 5](img/5.png)
 
 A maioria dos clientes que entraram em churn e que avaliaram com uma nota baixa, e tem em comum o tempo de relacionamento de 5 meses 
-**Prints**
+![Insight 6](img/6.png)
 
 A quantidade de churn veio a maior parte de empresas de pequeno porte dos setores Financeiro, Transporte e Saúde nos Países, Brasil, Colômbia e Peru  
-**Prints**
+![Insight 7](img/7.png)
 
 # RESULTADO/ RECOMENDAÇÃO
 A empresa se mostrou frágil em relação a vender para os mesmos clientes pois, refém dos descontos, a baixa avaliação e os números de churns, a empresa depende fortemente do investimento em campanhas de marketing  mais direcionadas e assertivas para trazer novos clientes.
