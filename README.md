@@ -1,3 +1,5 @@
+# Análise de Vendas FlyTech Aeronautica
+
 # PROBLEMA DE NEGOCIO
 
 A "FlyTech Aeronáutica" é uma empresa fictícia atuante no setor de aviação regional, especializada em fabricar aeronaves leves para transporte executivo e comercial. A empresa oferece aeronaves com foco em eficiência, segurança e inovação tecnológica, atendendo principalmente pequenas e médias empresas, executivos, companhias aéreas regionais e serviços de táxi aéreo na América Latina.
