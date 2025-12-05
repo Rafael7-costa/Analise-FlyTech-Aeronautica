@@ -82,8 +82,7 @@ Outra observação é a média da empresa que caiu em relação ao ano passado.
 
 
 # VISUALISE A ANALISE COMPLETA
-https://app.powerbi.com/reportEmbed?reportId=338bab51-2a30-4d6d-8b3c-853327c01fd5&autoAuth=true&ctid=58674b1f-122e-4f0b-989f-a1e1d8191402
-
+https://app.powerbi.com/view?r=eyJrIjoiNTJmYTE3ZTctZGMyMy00MDVmLTk3OTItNGE0OWVhNzZmYTA4IiwidCI6ImE0NTMyMzQyLWRjNjktNDhjMC1iODJhLTRhMWQ1ZDg2NGU2YiJ9
 
 # Próximos Passos
  - Coletar a data que os clientes entraram em churn e comparar com a data dos feedbacks para encontrar um padrão/tendência
